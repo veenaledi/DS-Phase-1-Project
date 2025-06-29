@@ -4,17 +4,31 @@
 Neema Naledi
 
 ## Overview
-Data-driven aviation risk assessment using NTSB accident data (1962-2023) to identify the safest aircraft for acquisition decisions.
+The company had planned to diversify its portfolio by entering the aviation industry, aiming to acquire and operate aircraft for both commercial and private use.
 
-## CRISP-DM Process
+Initially lacking knowledge about potential aircraft risks, a comprehensive risk assessment had been conducted to determine which aircraft had posed the lowest operational risks for the new business venture.
+
+## Links
+
+- **Slide Presentation**: []
+- **Tableau Dashboard**: []
+
+## Prerequisites
+*Getting started*
+1. Fork 
+Create a fork.
+
+2. Clone 
+
+- Type: git clone [https://github.com/veenaledi/DS-Phase-1-Project.git]
+(you can clone using either **SSH key**  or the **HTTPS**)
 
 ### Business Understanding
 Identify low-risk aircraft makes and models to support aviation division investment decisions.
 
 ### Data Understanding & Preparation
 - **Data source**: [https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses]
-- **Tools**: VS Code, Jupyter Notebook
-- Cleaned data: excluded non-civil flights, standardized aircraft classifications
+- **Tools**: VS Code, Jupyter Notebook, Tableau(for the dashboard)
 
 ### Analysis & Modeling
 - Calculated fatality ratios and accident frequencies by aircraft type
@@ -25,17 +39,22 @@ Interactive Tableau dashboard with aircraft safety rankings and operational insi
 
 ## Key Findings
 
-**Recommended Aircraft**: Cessna 172, Beechcraft Bonanza (low fatality ratios)
-**Avoid**: Piper PA-46 (elevated fatality rates)
+**Recommended Aircraft**: 
+**Avoid**: 
 **Focus**: Commercial passenger service aircraft show superior safety metrics
 
-## Resources
+## Reccomendations 
 
-- **Slide Presentation**: [Link to be added]
-- **Tableau Dashboard**: [Link to be added]
 
-## Contact
+## Testing
+To run the cells press ctrl+shift
+
+## Technologies Used
+- Python
+
+## Contributions
+
+Contributions to the Aviation Risk Assessment Report are welcome! If you have any suggestions, bug fixes, or additional features you'd like to add to the dashoard, please feel free to submit a pull request or open an issue.
+
+## Support
 naledi.student@moringaschool.com
-
-
-
