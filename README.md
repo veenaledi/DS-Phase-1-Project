@@ -8,9 +8,6 @@ The company had planned to diversify its portfolio by entering the aviation indu
 
 Initially lacking knowledge about potential aircraft risks, a comprehensive risk assessment had been conducted to determine which aircraft had posed the lowest operational risks for the new business venture.
 
-## Links
-
-- **Slide Presentation**: []
 - **Tableau Dashboard**: []
 
 ## Prerequisites
@@ -64,19 +61,25 @@ Despite limitations, this data provides the best available evidence for comparin
 This preparation gives us clean data to answer: *"Which planes have the fewest accidents"*
 
 ### Analysis & Modeling
-- Calculated fatality ratios and accident frequencies by aircraft type
-- Cross-validated findings across time periods
+- Calculated fatality ratios and accident frequenciesby aircraft type
+- Analyzed fatal vs non-fatal accidents by aircraft
+- Calculated when accidents happen most
 
 ### Deployment
 Interactive Tableau dashboard with aircraft safety rankings and operational insights.
 
 ## Key Findings
 
-**Recommended Aircraft**: 
-**Avoid**: 
-**Focus**: Commercial passenger service aircraft show superior safety metrics
+- Most accidents occur during landing and takeoffphases, with some aircraft showing betterperformance in these critical phases.
+- Newer commercial aircraft have lower fatalaccident rates compared to older models andsmaller private aircraft.
+- Takeoff and landing phases account for the majority of aviation accidents
 
 ## Reccomendations 
+- Prioritize newer models over older variants of the same aircrafttype
+- Invest heavily in takeoff and landing training since phase analysisshows these are the highest-risk periods
+- Purchase aircraft with strong maintenance support networks
+- Focus on models with readily available parts and certifiedmechanics
+- Consider airports with better safety records for regular operations
 
 
 ## Testing
