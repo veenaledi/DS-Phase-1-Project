@@ -8,7 +8,7 @@ The company had planned to diversify its portfolio by entering the aviation indu
 
 Initially lacking knowledge about potential aircraft risks, a comprehensive risk assessment had been conducted to determine which aircraft had posed the lowest operational risks for the new business venture.
 
-- **Tableau Dashboard**: []
+- **Tableau Dashboard**: [https://public.tableau.com/views/AviationRiskAssessment_17512589174060/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 ## Prerequisites
 *Getting started*
